@@ -1,18 +1,21 @@
 # Sistem-informasi-keuangan
 Project sistem keuangan ini bertujuan untuk menyelesaikan tugas akhir perkuliahan dan juga untuk menambah pengalaman pembuatan web 
-Web ini berfungsi untuk memanagement keuangan
+Web ini berfungsi untuk dilakukannya penyimpanan data yang tersusun rapih dan juga penglolaan keuangan yang lebih mudah serta lebih efisien, sehingga menajemen keuangan lebih menjadi mudah dilakukan dan tidak memakan waktu yang lama.
 
 ## Demo Beranda :
 
-![demo](https://user-images.githubusercontent.com/45083824/69827196-e52b8000-1248-11ea-978d-7cd8b2b4a72a.png)
+![demo](<img width="869" height="408" alt="image" src="https://github.com/user-attachments/assets/c0f230ef-d5b1-4876-8fcc-d508bdf3dc42" />
+)
 
 ## Demo Pengeluaran :
 
-![pengeluaran](https://user-images.githubusercontent.com/45083824/69827194-e52b8000-1248-11ea-94d6-a5a1408229e8.png)
+![pengeluaran](<img width="868" height="411" alt="image" src="https://github.com/user-attachments/assets/f05e2004-44c4-4c99-b709-1aa61e417521" />
+)
 
-## Export excel :
+## 	Demo Laporan :
 
-![export](https://user-images.githubusercontent.com/45083824/69827193-e492e980-1248-11ea-9f44-9d561db4bb60.png)
+![export](<img width="869" height="408" alt="image" src="https://github.com/user-attachments/assets/9f4da95d-044b-4776-9ffc-34c2eca2a319" />
+)
 
 Sistem informasi keuangan
 SIMKEU
