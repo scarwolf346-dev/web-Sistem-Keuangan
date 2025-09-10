@@ -1,5 +1,6 @@
 # Sistem-informasi-keuangan
-Project sistem keuangan ini bertujuan untuk menyelesaikan tugas akhir perkuliahan dan juga untuk menambah pengalaman pembuatan web
+Project sistem keuangan ini bertujuan untuk menyelesaikan tugas akhir perkuliahan dan juga untuk menambah pengalaman pembuatan web 
+Web ini berfungsi untuk memanagement keuangan
 
 ## Demo Beranda :
 
